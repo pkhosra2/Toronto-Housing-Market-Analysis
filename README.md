@@ -46,7 +46,7 @@ Below we can see a better representation of this shift in population between the
 
 This shift in population could mean a change in how families are chooosing where to raise their children. These families can be citizens native to Toronto or they can be immigrants. We will explore this next.
 
-## Toronto Gnerations
+## Toronto Generations
 
 
 ## Immigrant Map
