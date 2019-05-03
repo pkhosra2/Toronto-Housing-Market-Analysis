@@ -57,8 +57,15 @@ We can clearly see that first generation immigrants represnt the majority of the
 
 ## Immigrant Map
 
+Using the same CENSUS data, we can represent the entire Toronto immigration population using a clorepath map using the geopandas and pyshape Python libraries 
+
+It is important to note that the data used to creat our cloreopath was taken form a data set that looked at the countreis from which the immigrants were born. 
+
+Below we can see the full map exported into an HTML file using the plotly library tool
 
 ![World Map](https://user-images.githubusercontent.com/39222728/57117614-6d858900-6d2b-11e9-98d1-099c062cd35f.JPG)
+
+From this plotly map we can see a clear distinction in the majority of Asian immigrants in Toronto, compared to the rest of the world. 
 
 ## Toronto Age & Gender Diversity 
 
