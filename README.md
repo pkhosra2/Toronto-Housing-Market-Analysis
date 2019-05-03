@@ -80,7 +80,14 @@ From this plotly map we can see a clear distinction in the majority of Asian imm
 ![TorontoHousehouldIncomeHeatmap](https://user-images.githubusercontent.com/39222728/57117613-6d858900-6d2b-11e9-916e-c0b651cd460e.JPG)
 
 ## Toronto Housing Prices 
+
+This method of data visualization will be the one of the most difficult because it involes using a shapefile of Toronto's district/wards using latititude and longitude coorinates.
+
+Luckyilu, the Toronto Database archives provies a shapefile of Toronto broken up into its ward which we can plot using the shapely Python library. This shapefile can be seen below:
+
 ![Toronto Shapefile](https://user-images.githubusercontent.com/39222728/57117609-6cecf280-6d2b-11e9-8be9-89c6bb4a5c69.JPG)
+
+
 ![Toronto Wards](https://user-images.githubusercontent.com/39222728/57117610-6cecf280-6d2b-11e9-9afb-aaf85e6d34a5.JPG)
 ![Toronto Housing Prices Map](https://user-images.githubusercontent.com/39222728/57117607-6cecf280-6d2b-11e9-9a49-5fe02d7e1222.JPG)
 
