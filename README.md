@@ -48,10 +48,15 @@ This shift in population could mean a change in how families are chooosing where
 
 ## Toronto Generations
 
+Next we look to find which generation of immigrants seem to be more preveleant above all others. The chart below lets us see this comparison:
+
 ![torontogenerations2016](https://user-images.githubusercontent.com/39222728/57117612-6cecf280-6d2b-11e9-8dc1-9b68da895d06.JPG)
-![TorontoHousehouldIncomeHeatmap](https://user-images.githubusercontent.com/39222728/57117613-6d858900-6d2b-11e9-916e-c0b651cd460e.JPG)
+
+We can clearly see that first generation immigrants represnt the majority of the Toronto imimgrant community. From this analaysis, we can conclude that alot of these immigrants from first geenrations can potentially be responsible for the sudden increase in population in the York region we observed from our previous visualization. But, where specifically are all of these immigrants coming from? Our next visualization lets us see this.
+
 
 ## Immigrant Map
+
 
 ![World Map](https://user-images.githubusercontent.com/39222728/57117614-6d858900-6d2b-11e9-98d1-099c062cd35f.JPG)
 
