@@ -32,6 +32,12 @@ For this analysis we will collect daata based on the total population of the GTA
 
 Below we can see the transition of Population percentage for the city of Toronto fomr the years 1996-2016:
 
+![GTApop1996](https://user-images.githubusercontent.com/39222728/57117390-b2102500-6d29-11e9-8bdb-832a6c1f33fd.JPG)
+![GTApop2001](https://user-images.githubusercontent.com/39222728/57117391-b2102500-6d29-11e9-8022-ff7f71cada86.JPG)
+![GTApop2006](https://user-images.githubusercontent.com/39222728/57117392-b2102500-6d29-11e9-8f9e-77e1bc7e281f.JPG)
+![GTApop2011](https://user-images.githubusercontent.com/39222728/57117393-b2102500-6d29-11e9-9812-5ec63809bd27.JPG)
+![GTApop2016](https://user-images.githubusercontent.com/39222728/57117394-b2102500-6d29-11e9-938f-8634c47a26b7.JPG)
+
 ## Toronto Age & Gender Diversity 
 
 ## Toronto Gnerations
