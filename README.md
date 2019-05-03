@@ -48,16 +48,29 @@ This shift in population could mean a change in how families are chooosing where
 
 ## Toronto Generations
 
+![torontogenerations2016](https://user-images.githubusercontent.com/39222728/57117612-6cecf280-6d2b-11e9-8dc1-9b68da895d06.JPG)
+![TorontoHousehouldIncomeHeatmap](https://user-images.githubusercontent.com/39222728/57117613-6d858900-6d2b-11e9-916e-c0b651cd460e.JPG)
 
 ## Immigrant Map
 
+![World Map](https://user-images.githubusercontent.com/39222728/57117614-6d858900-6d2b-11e9-98d1-099c062cd35f.JPG)
+
 ## Toronto Age & Gender Diversity 
+
+![Toronto_Ages_2016](https://user-images.githubusercontent.com/39222728/57117611-6cecf280-6d2b-11e9-8955-6a54e1af039d.JPG)
 
 ## Toronto Household Incomes
 
+![TorontoHousehouldIncomeHeatmap](https://user-images.githubusercontent.com/39222728/57117613-6d858900-6d2b-11e9-916e-c0b651cd460e.JPG)
+
 ## Toronto Housing Prices 
+![Toronto Shapefile](https://user-images.githubusercontent.com/39222728/57117609-6cecf280-6d2b-11e9-8be9-89c6bb4a5c69.JPG)
+![Toronto Wards](https://user-images.githubusercontent.com/39222728/57117610-6cecf280-6d2b-11e9-9afb-aaf85e6d34a5.JPG)
+![Toronto Housing Prices Map](https://user-images.githubusercontent.com/39222728/57117607-6cecf280-6d2b-11e9-9a49-5fe02d7e1222.JPG)
 
 ## The Housing Index 
+
+![Toronto Housing Index](https://user-images.githubusercontent.com/39222728/57117606-6cecf280-6d2b-11e9-969e-5414d7db9582.JPG)
 
 ## Conclusion 
 
