@@ -17,3 +17,20 @@ For this project we will attempt to answer the following questions:
 5. How much does a household make annually per ward/district?
 6. How much are house prices per ward/dsitrcit?
 7. How is the Toronto housing index performing? 
+
+## Toronto Population History
+
+## Toronto Age & Gender Diversity 
+
+## Toronto Gnerations
+
+## Immigrant Map
+
+## Toronto Household Incomes
+
+## Toronto Housing Prices 
+
+## The Housing Index 
+
+## Conclusion 
+
