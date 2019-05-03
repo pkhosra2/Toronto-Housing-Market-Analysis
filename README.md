@@ -15,4 +15,5 @@ For this project we will attempt to answer the following questions:
 3. Which geenration of immigrants is the most prevelant?
 4. Where are citzens of Torotno immigrating from?
 5. How much does a household make annually per ward/district?
-6. 
+6. How much are house prices per ward/dsitrcit?
+7. How is the Toronto housing index performing? 
