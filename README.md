@@ -38,11 +38,14 @@ Below we can see the transition of Population percentage for the city of Toronto
 ![GTApop2011](https://user-images.githubusercontent.com/39222728/57117393-b2102500-6d29-11e9-9812-5ec63809bd27.JPG)
 ![GTApop2016](https://user-images.githubusercontent.com/39222728/57117394-b2102500-6d29-11e9-938f-8634c47a26b7.JPG)
 
-## Toronto Age & Gender Diversity 
+From the trasnition between the chart above we can see a clear decrease in popuation for the city of Toronto, contrasting the steady increase in population for the ork region. This can be due many factors that are in play. One of which can be case-by-case family situations. From simple intuition, Toronto as a region is less popular for larger families to settle, given its small homes and fast-paced atmosphere, while York offers a more suburb touch, inviting more families into its area. This shift in population could mean a change in how families are chooosing where to raise their children. These families can be citizens native to Toronto or they can be immigrants. We will explore this next.
 
 ## Toronto Gnerations
 
+
 ## Immigrant Map
+
+## Toronto Age & Gender Diversity 
 
 ## Toronto Household Incomes
 
