@@ -63,7 +63,9 @@ It is important to note that the data used to creat our cloreopath was taken for
 
 Below we can see the full map exported into an HTML file using the plotly library tool, with example code:
 
+![Capture](https://user-images.githubusercontent.com/39222728/57169365-3a4b0480-6dd4-11e9-9b3b-218b5aebda46.JPG)
 
+This line lets us export our geo pandas file into an HTML document displaying the map shown below:
 
 ![World Map](https://user-images.githubusercontent.com/39222728/57117614-6d858900-6d2b-11e9-98d1-099c062cd35f.JPG)
 
