@@ -4,7 +4,7 @@
 
 The purpose of this project is to understand the history, current state, and potential future of the overall Toronto housing market using publicly available CENSUS data sources 
 
-## Gather Our Data
+## Gathering Our Data
 
 To first understand the market we need to understand what kind of questions we want answered. We know that we want to understand the housing market in Toronto, but how exactly can we do that? One approach is by asking a variety of questions that will help us split up the population of Toronto in such a way that we can accurately diversify the data.
 
@@ -18,7 +18,19 @@ For this project we will attempt to answer the following questions:
 6. How much are house prices per ward/dsitrcit?
 7. How is the Toronto housing index performing? 
 
+The data sources used for this project will be Concensous Canada, Statistics Canada, and the City of Toronto Data Archives 
+
 ## Toronto Population History
+
+For this analysis we will collect daata based on the total population of the GTA region, which is made up of the 5 regions:
+
+1. Toronto
+2. York
+3. Durham
+4. Peel
+5. Halton
+
+Below we can see the transition of Population percentage for the city of Toronto fomr the years 1996-2016:
 
 ## Toronto Age & Gender Diversity 
 
