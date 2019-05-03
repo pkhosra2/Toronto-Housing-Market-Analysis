@@ -87,8 +87,16 @@ Luckyilu, the Toronto Database archives provies a shapefile of Toronto broken up
 
 ![Toronto Shapefile](https://user-images.githubusercontent.com/39222728/57117609-6cecf280-6d2b-11e9-8be9-89c6bb4a5c69.JPG)
 
+Now that we have our shapefile, we need to establish which ward is which using another document found on the city of Toronto government website
+
+Thie image shows us the numbers of all the Toronto wards by number
 
 ![Toronto Wards](https://user-images.githubusercontent.com/39222728/57117610-6cecf280-6d2b-11e9-9afb-aaf85e6d34a5.JPG)
+
+Once we have our shapefile ready to populate with data, we can incorporate our dataset into it. This specific dataset was taken off another Kaggle project. It list the prices of all homes I NTHE Greater Toronto Area that were sold over the year 2016. however, our concern is only with the homes that were sold in only the Toronto region.
+
+
+
 ![Toronto Housing Prices Map](https://user-images.githubusercontent.com/39222728/57117607-6cecf280-6d2b-11e9-9a49-5fe02d7e1222.JPG)
 
 ## The Housing Index 
