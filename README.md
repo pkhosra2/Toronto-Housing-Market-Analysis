@@ -117,9 +117,15 @@ Once we have our shapefile ready to populate with data, we can incorporate our d
 
 ## The Housing Index 
 
-Finally we take a close look at the Toronto Housing Index. As a background to its significance, the housing index serves as a tool to  measurement 
+Finally we take a close look at the Toronto Housing Index. As a background to its significance, the housing index serves as a tool to  estimate the current direction of the housing market for a particular city by averaging the prices of single-family home prices. 
+
+Using the matplotlib library we can plot a imple line graph to show the direction for the Toronto housing market over the last 20 years. 
 
 ![Toronto Housing Index](https://user-images.githubusercontent.com/39222728/57117606-6cecf280-6d2b-11e9-969e-5414d7db9582.JPG)
+
+From the plot above we can clearly see that the index has grown significantly since the 1980's. However, we take notice that it is also overextended, mainly for the last yeo years, and is currently exepreince a common consolidation period. We can infer that the housing market has potentially become saturated with buyers and is currently awaiting to see a potential shift in direction.
+
+
 
 ## Conclusion 
 
