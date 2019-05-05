@@ -73,17 +73,29 @@ From this plotly map we can see a clear distinction in the majority of Asian imm
 
 ## Toronto Age & Gender Diversity 
 
+The next analysis we will look at it the gender and age diversity amongst all of Toronto's citeizens. Below we can see the results 
+
 ![Toronto_Ages_2016](https://user-images.githubusercontent.com/39222728/57117611-6cecf280-6d2b-11e9-8955-6a54e1af039d.JPG)
+
+From this plot we can see that the most prevelant age range is between the years 25-30 years old, and the majoirty of the age ranges have women with the higher population, compared to men. 
+
+Next we will take a look at all of the household incomes 
 
 ## Toronto Household Incomes
 
+using the custom seaborn library we will implement a heat map using household income in intervals of $5-10k per ward. This plot can be see below
+
 ![TorontoHousehouldIncomeHeatmap](https://user-images.githubusercontent.com/39222728/57117613-6d858900-6d2b-11e9-916e-c0b651cd460e.JPG)
+
+We can see that the top ward incomes are:
+
+
 
 ## Toronto Housing Prices 
 
 This method of data visualization will be the one of the most difficult because it involes using a shapefile of Toronto's district/wards using latititude and longitude coorinates.
 
-Luckyilu, the Toronto Database archives provies a shapefile of Toronto broken up into its ward which we can plot using the shapely Python library. This shapefile can be seen below:
+Luckyily, the Toronto Database archives provies a shapefile of Toronto broken up into its ward which we can plot using the shapely Python library. This shapefile can be seen below:
 
 ![Toronto Shapefile](https://user-images.githubusercontent.com/39222728/57117609-6cecf280-6d2b-11e9-8be9-89c6bb4a5c69.JPG)
 
