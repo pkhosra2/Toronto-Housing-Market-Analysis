@@ -89,7 +89,11 @@ using the custom seaborn library we will implement a heat map using household in
 
 We can see that the top ward incomes are:
 
+1. Ward 16 ------> Don Valley East
+2. Ward 25 ------> Scarborough Rouge Park
+3. Ward 27 ------> Centre-Rosedale
 
+We can see that all of these wards seem to have a lot of household that have an average income of $150k/ year
 
 ## Toronto Housing Prices 
 
@@ -112,6 +116,8 @@ Once we have our shapefile ready to populate with data, we can incorporate our d
 ![Toronto Housing Prices Map](https://user-images.githubusercontent.com/39222728/57117607-6cecf280-6d2b-11e9-9a49-5fe02d7e1222.JPG)
 
 ## The Housing Index 
+
+Finally we take a close look at the Toronto Housing Index. As a background to its significance, the housing index serves as a tool to  measurement 
 
 ![Toronto Housing Index](https://user-images.githubusercontent.com/39222728/57117606-6cecf280-6d2b-11e9-969e-5414d7db9582.JPG)
 
