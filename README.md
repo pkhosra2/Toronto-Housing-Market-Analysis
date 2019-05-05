@@ -109,9 +109,13 @@ Thie image shows us the numbers of all the Toronto wards by number
 
 ![Toronto Wards](https://user-images.githubusercontent.com/39222728/57117610-6cecf280-6d2b-11e9-9afb-aaf85e6d34a5.JPG)
 
-Once we have our shapefile ready to populate with data, we can incorporate our dataset into it. This specific dataset was taken off another Kaggle project. It list the prices of all homes I NTHE Greater Toronto Area that were sold over the year 2016. however, our concern is only with the homes that were sold in only the Toronto region.
+Once we have our shapefile ready to populate with data, we can incorporate our dataset into it. This specific dataset was taken off another Kaggle project. It list the prices of all homes in the Greater Toronto Area that were sold over the year 2016. however, our concern is only with the homes that were sold in only the Toronto region.
 
+We can use their lines of code below to match the geometry of our shapefile to that of our housing coordinates.
 
+![Capture](https://user-images.githubusercontent.com/39222728/57187864-8fb20f00-6ec3-11e9-9f10-eefcf200932d.JPG)
+
+Below we see the final resulting visulaization
 
 ![Toronto Housing Prices Map](https://user-images.githubusercontent.com/39222728/57117607-6cecf280-6d2b-11e9-9a49-5fe02d7e1222.JPG)
 
